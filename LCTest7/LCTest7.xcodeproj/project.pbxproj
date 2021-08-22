@@ -14,6 +14,7 @@
 		A1DE588426D2716100E9AFF4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A1DE588326D2716100E9AFF4 /* Assets.xcassets */; };
 		A1DE588726D2716100E9AFF4 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A1DE588526D2716100E9AFF4 /* LaunchScreen.storyboard */; };
 		A1DE588F26D277C200E9AFF4 /* Version1ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1DE588E26D277C200E9AFF4 /* Version1ViewController.swift */; };
+		A1DE589126D27A1900E9AFF4 /* Version2ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1DE589026D27A1900E9AFF4 /* Version2ViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		A1DE588626D2716100E9AFF4 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		A1DE588826D2716100E9AFF4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		A1DE588E26D277C200E9AFF4 /* Version1ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Version1ViewController.swift; sourceTree = "<group>"; };
+		A1DE589026D27A1900E9AFF4 /* Version2ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Version2ViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				A1DE587C26D2716000E9AFF4 /* SceneDelegate.swift */,
 				A1DE587E26D2716000E9AFF4 /* ViewController.swift */,
 				A1DE588E26D277C200E9AFF4 /* Version1ViewController.swift */,
+				A1DE589026D27A1900E9AFF4 /* Version2ViewController.swift */,
 				A1DE588026D2716000E9AFF4 /* Main.storyboard */,
 				A1DE588326D2716100E9AFF4 /* Assets.xcassets */,
 				A1DE588526D2716100E9AFF4 /* LaunchScreen.storyboard */,
@@ -141,6 +144,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				A1DE587F26D2716000E9AFF4 /* ViewController.swift in Sources */,
+				A1DE589126D27A1900E9AFF4 /* Version2ViewController.swift in Sources */,
 				A1DE588F26D277C200E9AFF4 /* Version1ViewController.swift in Sources */,
 				A1DE587B26D2716000E9AFF4 /* AppDelegate.swift in Sources */,
 				A1DE587D26D2716000E9AFF4 /* SceneDelegate.swift in Sources */,
